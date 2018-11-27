@@ -1,2 +1,2 @@
 # SCRD-SRRV-for-Vein-Recognition
-IEEE TIFS Paper Codes
+Codes and models will be available after paper acceptance
