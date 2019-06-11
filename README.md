@@ -1,2 +1,2 @@
-# SCRD-SRRV-for-Vein-Recognition
+# SCRD-for-Vein-Recognition
 Codes and models will be available after paper acceptance
